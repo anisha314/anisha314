@@ -43,41 +43,19 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
 ---
 
-## 🧑‍💻 Projects
+## 🔗 Connect With Me
 
-### Farm-to-Table  
-[GitHub Repo](https://github.com/anisha314/farm-to-table) | [Live Demo](https://farmto-table.netlify.app/)  
-- Developed a platform connecting local farmers directly with consumers to promote sustainable organic agriculture.  
-- Implemented CRUD operations, responsive UI with React and CSS3.  
-- Managed backend data with Firebase Realtime Database and used Context API for state management.  
-- Enhanced UX by adding background animations and a video walkthrough.
-
-### Code Masters  
-[GitHub Repo](https://github.com/anisha314/B41WEB030Code-Masters) | [Live Demo](https://velvety-puppy-faead7.netlify.app)  
-- Created a collaborative coding platform with team authentication and project timeline management using JavaScript, HTML5, and CSS3.
-
-### Online Voting System  
-[GitHub Repo](https://github.com/anisha314/OnlineVotingSystem) | [Live Demo](https://onlinevotingsys.netlify.app)  
-- Built a secure, accessible online voting app with admin controls to manage participants, leveraging HTML, CSS, and JavaScript.
-
----
-
-## 🎓 Education
-
-- **Masai School, Bengaluru** — Full Stack Web Development Program (Jun 2024 – Present)  
-- **Patel College of Science and Technology, Bhopal** — B.Tech in Computer Science and Engineering (Aug 2017 – Jul 2021)
-
----
-
-## 📜 Certifications
-
-- JavaScript Algorithms and Data Structures — freeCodeCamp (2025) [Certificate Link]
+<p align="center">
+  <a href="https://www.linkedin.com/in/anisha-singh-9a4640295/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -97,16 +75,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisha314&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</p>
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anisha-singh-9a4640295/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </p>
 
 ---
